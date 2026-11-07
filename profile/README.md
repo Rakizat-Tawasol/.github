@@ -56,7 +56,7 @@ An independent control layer that sits between AI agents and the tools, models, 
 | **Content inspection** | Prompt-injection detection (English and Arabic), secrets and PII redaction, multimodal inspection of images, PDFs, Office documents, SVG and audio |
 | **Agent coverage** | Any framework or model · computer-use and browser agents · coding-agent hooks · permission-aware RAG synced from SharePoint, Google Drive and Confluence · non-bypassable egress proxy and credential broker |
 | **Detect & respond** | Incident auto-detection and containment, kill switch, playbooks · AI SOC copilot mapped to MITRE ATLAS and OWASP LLM · community threat intelligence · red-teaming library and CI release gate |
-| **Evidence & compliance** | Hash-chained audit log, evidence vault and legal hold · controls for EU AI Act, NIST AI RMF, ISO/IEC 42001 & 27001, SOC 2 and OWASP Agentic, with generated compliance documentation |
+| **Evidence & compliance** | Hash-chained audit log, evidence vault and legal hold · controls for EU AI Act, NIST AI RMF, ISO/IEC 42001 & 27001, SOC 2 and OWASP Agentic, with automated compliance documentation |
 | **Enterprise platform** | Multi-tenancy with PostgreSQL Row-Level Security and data-region pinning · OIDC/SAML SSO, SCIM, SPIFFE mTLS · application firewall · 500+ connector marketplace · SIEM, Slack, Teams and ticketing integrations |
 | **Developer platform** | REST API with OpenAPI · SDKs for **Python, TypeScript, Go, Java and .NET** · [Terraform provider](https://github.com/Rakizat-Tawasol/terraform-provider-agentguard) · CLI · GitOps and Kubernetes operator · bilingual (Arabic/English) console, WCAG 2.2 AA |
 
@@ -181,7 +181,7 @@ Our portfolio extends well beyond the platforms above. Rakizat Tawasol has desig
 | **Backend & APIs** | Laravel · Go services · FastAPI · gRPC & Protocol Buffers · REST & OpenAPI · JSON-RPC · Webhooks |
 | **Mobile & Devices** | Mobile companion apps · desktop POS terminals · kitchen display systems · barcode-driven workflows · offline-first sync |
 | **Databases & Data** | PostgreSQL (Row-Level Security) · MySQL · Redis · ClickHouse · Apache Kafka · S3 object storage · Excel/CSV analytics |
-| **AI & Machine Learning** | LLM integration (OpenAI, Anthropic and compatible providers) · RAG pipelines · Model Context Protocol (MCP) · ML classifiers · OCR · predictive analytics · computer-use & browser agents (Playwright) |
+| **AI & Machine Learning** | Multi-provider LLM integration & AI gateways · RAG pipelines · Model Context Protocol (MCP) · ML classifiers · OCR · predictive analytics · computer-use & browser agents (Playwright) |
 | **Security & Identity** | OIDC · SAML SSO · SCIM · OAuth 2.0 · JWT / JOSE · SPIFFE / mTLS · Ed25519 signing · HashiCorp Vault · CEL & Open Policy Agent (Rego) · application firewall |
 | **Cloud & DevOps** | Docker · Kubernetes · Helm · Terraform · AWS · Microsoft Azure · Google Cloud · Private Link / Private Service Connect · GitHub Actions · GitLab CI · Jenkins · GoReleaser |
 | **Observability** | Prometheus · Grafana · OpenTelemetry · Splunk · Elastic · Microsoft Sentinel · Wazuh |
