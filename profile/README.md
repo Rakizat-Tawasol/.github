@@ -171,7 +171,7 @@ Our portfolio extends well beyond the platforms above. Rakizat Tawasol has desig
 | | | |
 |---|---|---|
 | 🛡️ Enterprise AI & Cybersecurity | 🏥 Healthcare, Laboratories & Radiology | 💊 Pharmacies |
-| 🍽️ Restaurants & Food Service | 🛒 Grocery, Supermarkets & Retail | 🏨 Hotels & Hospitality |
+| 🍽️ Restaurants & Food Service | 🛍️ Retail & E-commerce | 🏨 Hotels & Hospitality |
 | 🏗️ Construction & Contracting | 🏭 Manufacturing & Warehousing | ✈️ Tourism & Travel |
 | 🎓 Education & Schools | 🚚 Logistics, Wholesale & Distribution | 🧾 Installments & Consumer Finance |
 | 💼 Professional Services & SMEs | ⛽ Fuel, Gyms & Repair Services | 🏛️ Regulated & Compliance-driven Sectors |
