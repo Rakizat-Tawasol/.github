@@ -104,6 +104,28 @@ An AI-powered omnichannel platform that brings customer conversations across **W
 | **Social Channels** | Instagram comment and story-mention automation · Facebook Pages and Lead Ads sync · Telegram support with keyword rules and scheduled messages |
 | **Developer API** | Reverse API that lets CRM, POS, ERP and ordering systems send and receive messages — proven in production inside Zetraxa |
 
+### 🛒 Nardexa — The Complete Business Platform Behind the Register
+
+Nardexa is not a checkout app with a few extra screens bolted on. It is a single, **offline-first** platform that runs every part of a grocery or retail business — the register, the stockroom, purchasing, accounting, payroll, franchise operations, compliance and multi-branch head-office reporting — all sharing **one data model and one permission system**.
+
+| Area | Capabilities |
+|---|---|
+| **Platform foundations** | Offline-first terminals with a local database and a Sync Center showing live sync status per branch · device-bound pairing and licensing · multi-company, multi-branch data partitioning · Owner / Supervisor / Cashier roles enforced on every screen and command · bilingual Arabic/English with full RTL · startup crash recovery · scheduled, tested backups with full restore |
+| **Point of sale** | Barcode and PLU scanning, including weight-embedded barcodes · live digital scale connection · standalone Price Check · split tenders (cash, card, store credit, gift cards) · batch selection for lot traceability · hold & resume · returns against any past sale and same-shift void · live loyalty and credit lookup · till sessions, cash counting, Day Close and Z-Report archive · double-charge-proof checkout recovery · cashier reports and shortage/overage exceptions |
+| **Self-checkout** | Unattended self-checkout kiosk mode · live Attendant Console · real-time vision-based alerts for weight/scan mismatches |
+| **Customers & loyalty** | Unified customer directory · loyalty points · gift cards and store credit · balance adjustments and cash payouts with full history |
+| **Catalog & pricing** | SKU/barcode uniqueness and PLU codes · product images · price rules and promotions · promotions reporting · combined markdown and reorder tooling |
+| **Inventory** | Real-time stock per branch · velocity-driven reorder suggestions · batch/lot and expiry tracking with product recall · inter-branch and warehouse transfers · cycle and full counts with reconciliation · waste write-offs with photo evidence · kits and bundles · consignment stock · cost revaluation · fully audited adjustments |
+| **Purchasing & suppliers** | Purchase orders, invoices and returns · supplier statements and KPIs · traceability from purchase order to stock · purchasing reports |
+| **Delivery & e-commerce** | Delivery management for order fulfilment · real-time storefront stock and price sync |
+| **Accounting & finance** | Configurable chart of accounts · journals and general ledger · balance sheet and income statement consolidated across branches and companies · COGS ledger · AP/AR with aging · multi-currency · tax accounting for e-invoicing · Accounting Hub |
+| **Franchise management** | Franchise agreement tracking · automated royalty calculation and reporting |
+| **Payroll & HR** | Employee directory · attendance and leave with approvals · payroll runs (calculate, approve, disburse) posting to the ledger · social insurance rules and tax brackets |
+| **Reporting & dashboards** | Sales and profit reports · grocery KPI dashboard · consolidated cross-branch, cross-company dashboard · inventory and expiry reports · build-your-own dynamic reports |
+| **Administration & security** | Companies & Branches Hub · Users & Roles Hub with per-permission control · before/after audit log exportable as a signed, tamper-evident evidence package · security alerts and duress PIN · self-service PIN changes |
+| **Hardware & devices** | Central Devices Hub · barcode scanners, receipt and label printers, cash drawers · digital scales via MT-SICS · electronic shelf labels (ESL) · cameras and self-checkout kiosks |
+| **Settings & compliance** | Invoice template designer · barcode/label formats · per-branch currency, tax and calendar settings · data import and migration tools · e-invoicing for tax-authority compliance · configurable notification channels |
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -137,7 +159,6 @@ An AI-powered omnichannel platform that brings customer conversations across **W
 
 Our portfolio extends well beyond the platforms above. Rakizat Tawasol has designed, built and operates **numerous other products and custom systems across diverse sectors**, including:
 
-- **Nardexa**
 - Custom enterprise systems, web platforms and mobile applications delivered for clients across Egypt, the Gulf and beyond
 - Industry-specific management systems, integrations and automation solutions built to each client's exact operations
 
@@ -150,7 +171,7 @@ Our portfolio extends well beyond the platforms above. Rakizat Tawasol has desig
 | | | |
 |---|---|---|
 | 🛡️ Enterprise AI & Cybersecurity | 🏥 Healthcare, Laboratories & Radiology | 💊 Pharmacies |
-| 🍽️ Restaurants & Food Service | 🛍️ Retail & E-commerce | 🏨 Hotels & Hospitality |
+| 🍽️ Restaurants & Food Service | 🛒 Grocery, Supermarkets & Retail | 🏨 Hotels & Hospitality |
 | 🏗️ Construction & Contracting | 🏭 Manufacturing & Warehousing | ✈️ Tourism & Travel |
 | 🎓 Education & Schools | 🚚 Logistics, Wholesale & Distribution | 🧾 Installments & Consumer Finance |
 | 💼 Professional Services & SMEs | ⛽ Fuel, Gyms & Repair Services | 🏛️ Regulated & Compliance-driven Sectors |
@@ -179,7 +200,7 @@ Our portfolio extends well beyond the platforms above. Rakizat Tawasol has desig
 | **Languages** | Go · TypeScript · JavaScript · PHP · Python · Java · C# / .NET · SQL |
 | **Frontend & UI** | Next.js · React · Vite · Tailwind CSS · Three.js · GSAP · Recharts · multilingual UI (Arabic RTL, English, Turkish, German, French) · WCAG 2.2 AA accessibility |
 | **Backend & APIs** | Laravel · Go services · FastAPI · gRPC & Protocol Buffers · REST & OpenAPI · JSON-RPC · Webhooks |
-| **Mobile & Devices** | Mobile companion apps · desktop POS terminals · kitchen display systems · barcode-driven workflows · offline-first sync |
+| **Retail Hardware & Devices** | Desktop POS terminals · self-checkout kiosks · kitchen display systems · mobile companion apps · barcode scanners · receipt & label printers · cash drawers · digital scales (MT-SICS) · electronic shelf labels · cameras & vision alerts · offline-first sync |
 | **Databases & Data** | PostgreSQL (Row-Level Security) · MySQL · Redis · ClickHouse · Apache Kafka · S3 object storage · Excel/CSV analytics |
 | **AI & Machine Learning** | Multi-provider LLM integration & AI gateways · RAG pipelines · Model Context Protocol (MCP) · ML classifiers · OCR · predictive analytics · computer-use & browser agents (Playwright) |
 | **Security & Identity** | OIDC · SAML SSO · SCIM · OAuth 2.0 · JWT / JOSE · SPIFFE / mTLS · Ed25519 signing · HashiCorp Vault · CEL & Open Policy Agent (Rego) · application firewall |
